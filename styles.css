@@ -1,0 +1,71 @@
+body{
+background-color: #f0f5f9;
+}
+
+img{
+border-radius: 50%;
+}
+
+li{
+font-family:Trebuchet MS;
+color: #1e2022;
+}
+
+th{
+font-family:Trebuchet MS;
+background-color: #52616b;
+color: #fafafa;
+}
+
+td{
+font-family:Trebuchet MS;
+background-color: #c9d6df;
+color: #303841;
+}
+
+h1{
+font-size: 37px;
+font-family:Trebuchet MS;
+color: #1e2022;
+}
+
+h4{
+font-family:Trebuchet MS;
+color: #1e2022;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+
+a{
+font-family:Trebuchet MS;
+color: darkgrey;
+}
+
+p{
+color: #685454;
+}
+
+form{
+font-family:Trebuchet MS;
+color: #fafafa;
+}
+
+.bg1{
+background-color: #c9d6df;
+}
+
+.bg2{
+background-color: #52616b;
+}
+
+#heading{
+font-family:verdana;
+color: white;
+font-size: 50px;
+}
